@@ -1,6 +1,6 @@
 import web
 
-db_host = 'localhost'
+db_host = '127.0.0.1'
 db_name = 'kuorra_login'
 db_user = 'kuorra'
 db_pw = 'kuorra.2018'
